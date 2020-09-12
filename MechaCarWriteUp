@@ -1,0 +1,19 @@
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? Vehicle length and ground clearance
+
+
+
+Is the slope of the linear model considered to be zero? Why or why not? So it's not zero because we have variables that significant i.e ground clearance co efficent is 5.
+
+
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? Yes, our multiple R-sqaured value is 0.715. 71% of variance is explained by the variables that we have. 
+
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not? Yes, it does not exceed 100. 
+
+
+T Test Interpretation: 
+We fail to reject the null hypothesis with a p-value of .5. There is not statistically significant evidence that PSI != 1500.
+
+
+My Own Study
+For many if not all consumers car buying has to meet many standards, from saftey features to gas milage, wanting to get the most of their vehicle. In the analysis that I have done, it shows a bigger vehicle does effect milage, even though gas prices are low currently in the market a large vehicle or a sports will burn the same amount compared to a smaller more fuel efficent vehicle. Having a more fuel efficent vehicle will be more useful for the average consumer versus a larger vehicle. 
